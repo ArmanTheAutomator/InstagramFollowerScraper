@@ -1,0 +1,9 @@
+How to Run:
+1. Download chromedriver from the link https://chromedriver.storage.googleapis.com/index.html?path=103.0.5060.134/
+2. Set your instagram credentials into "credentials.txt" file.
+3. Double Click on "script.exe" file And follow terminal
+4. Output: will be saved in a txt file (usernames of the followers)
+
+Cautions:
+1. script.exe, chromedriver, and credentials.txt file must be in same folder.
+2. Make sure you are using Chrome browser version 103
